@@ -14,7 +14,7 @@ require (
 	golang.org/x/sys v0.0.0-20201117222635-ba5294a509c7 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	golang.org/x/tools v0.0.0-20201120155355-20be4ac4bd6e // indirect
-	google.golang.org/protobuf v1.25.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	k8s.io/api v0.17.15
 	k8s.io/apiextensions-apiserver v0.17.15
 	k8s.io/apimachinery v0.17.15
